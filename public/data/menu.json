@@ -1,0 +1,656 @@
+[
+  {
+    "id": 1,
+    "name": "Maicha Signature Latte",
+    "price": "35.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Signature Coffee",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "Cloudy White",
+    "price": "38.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Signature Coffee",
+    "tag": "Favorite"
+  },
+  {
+    "id": 3,
+    "name": "Mossy Caramel Macchiato",
+    "price": "37.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Signature Coffee",
+    "tag": "Must Try"
+  },
+  {
+    "id": 4,
+    "name": "Uji Espresso Fusion",
+    "price": "39.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Signature Coffee"
+  },
+  {
+    "id": 5,
+    "name": "Sage Brown Sugar Coffee",
+    "price": "34.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Signature Coffee"
+  },
+  {
+    "id": 6,
+    "name": "Maicha Cream Coffee",
+    "price": "36.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/about.jpg",
+    "category": "Signature Coffee",
+    "tag": "New"
+  },
+  {
+    "id": 7,
+    "name": "Forest Mocha Espresso",
+    "price": "37.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Signature Coffee"
+  },
+  {
+    "id": 8,
+    "name": "Kaya Matcha Coffee",
+    "price": "35.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Signature Coffee"
+  },
+  {
+    "id": 9,
+    "name": "Iced Houjicha Coffee",
+    "price": "36.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/space-private.jpg",
+    "category": "Signature Coffee"
+  },
+  {
+    "id": 10,
+    "name": "Velvet Matcha Affogato",
+    "price": "40.000",
+    "description": "Racikan kopi khas Maicha dengan karakter matcha, espresso, dan cream yang seimbang.",
+    "process": "Dibuat fresh dengan espresso, takaran syrup seimbang, dan finishing matcha khas Maicha.",
+    "image": "/images/hero.jpg",
+    "category": "Signature Coffee",
+    "tag": "Premium"
+  },
+  {
+    "id": 11,
+    "name": "Vanilla Dream Latte",
+    "price": "32.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 12,
+    "name": "Hazelnut Praline",
+    "price": "32.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Flavour Latte",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 13,
+    "name": "Salted Caramel Latte",
+    "price": "33.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Flavour Latte",
+    "tag": "Favorite"
+  },
+  {
+    "id": 14,
+    "name": "Butterscotch Latte",
+    "price": "34.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 15,
+    "name": "Cinnamon Maple Latte",
+    "price": "33.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 16,
+    "name": "Pandan Latte",
+    "price": "31.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/about.jpg",
+    "category": "Flavour Latte",
+    "tag": "Local Twist"
+  },
+  {
+    "id": 17,
+    "name": "Rose Cream Latte",
+    "price": "34.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 18,
+    "name": "Coconut Latte",
+    "price": "32.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 19,
+    "name": "Tiramisu Latte",
+    "price": "35.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/space-private.jpg",
+    "category": "Flavour Latte",
+    "tag": "Must Try"
+  },
+  {
+    "id": 20,
+    "name": "Irish Cream Latte",
+    "price": "34.000",
+    "description": "Latte lembut dengan rasa pilihan yang manisnya ringan dan tidak menutup aroma kopi.",
+    "process": "Syrup ditakar presisi, lalu dicampur espresso dan susu agar rasa tetap smooth.",
+    "image": "/images/hero.jpg",
+    "category": "Flavour Latte"
+  },
+  {
+    "id": 21,
+    "name": "Belgian Chocolate",
+    "price": "30.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 22,
+    "name": "Ceremonial Matcha Oat",
+    "price": "35.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Milk Based",
+    "tag": "Favorite"
+  },
+  {
+    "id": 23,
+    "name": "Strawberry Matcha Milk",
+    "price": "34.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Milk Based",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 24,
+    "name": "Hojicha Milk Tea",
+    "price": "32.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 25,
+    "name": "Black Sesame Milk",
+    "price": "33.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 26,
+    "name": "Taro Cream Milk",
+    "price": "31.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/about.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 27,
+    "name": "Banana Matcha Milk",
+    "price": "34.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Milk Based",
+    "tag": "New"
+  },
+  {
+    "id": 28,
+    "name": "Cookies Cream Milk",
+    "price": "32.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 29,
+    "name": "Mango Milk Float",
+    "price": "33.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/space-private.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 30,
+    "name": "Classic Fresh Milk",
+    "price": "25.000",
+    "description": "Minuman creamy non-coffee dengan karakter matcha, cokelat, buah, atau milk tea.",
+    "process": "Bahan utama dikocok atau dilayer agar tekstur creamy dan rasa tetap jelas.",
+    "image": "/images/hero.jpg",
+    "category": "Milk Based"
+  },
+  {
+    "id": 31,
+    "name": "Berry Fizz Oasis",
+    "price": "28.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 32,
+    "name": "Yuzu Matcha Sparkle",
+    "price": "32.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Soda Based",
+    "tag": "Must Try"
+  },
+  {
+    "id": 33,
+    "name": "Lychee Mint Fizz",
+    "price": "29.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Soda Based",
+    "tag": "Favorite"
+  },
+  {
+    "id": 34,
+    "name": "Peach Green Sparkle",
+    "price": "29.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 35,
+    "name": "Mango Passion Soda",
+    "price": "30.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 36,
+    "name": "Apple Elderflower Soda",
+    "price": "31.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/about.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 37,
+    "name": "Blue Citrus Fizz",
+    "price": "29.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 38,
+    "name": "Kiwi Lime Soda",
+    "price": "30.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Soda Based",
+    "tag": "New"
+  },
+  {
+    "id": 39,
+    "name": "Pomegranate Fizz",
+    "price": "31.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/space-private.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 40,
+    "name": "Cucumber Lime Cooler",
+    "price": "28.000",
+    "description": "Minuman sparkling yang segar, ringan, dan cocok untuk cuaca panas.",
+    "process": "Buah, syrup, dan sparkling water dingin dicampur saat pesanan dibuat.",
+    "image": "/images/hero.jpg",
+    "category": "Soda Based"
+  },
+  {
+    "id": 41,
+    "name": "Lychee Zen Tea",
+    "price": "26.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 42,
+    "name": "Jasmine Green Tea",
+    "price": "25.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 43,
+    "name": "Peach Oolong Tea",
+    "price": "28.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Tea Based",
+    "tag": "Favorite"
+  },
+  {
+    "id": 44,
+    "name": "Lemon Earl Grey",
+    "price": "27.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 45,
+    "name": "Honey Chamomile Tea",
+    "price": "27.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 46,
+    "name": "Thai Milk Tea",
+    "price": "29.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/about.jpg",
+    "category": "Tea Based",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 47,
+    "name": "Rosella Berry Tea",
+    "price": "28.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 48,
+    "name": "Yuzu Green Tea",
+    "price": "29.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Tea Based",
+    "tag": "New"
+  },
+  {
+    "id": 49,
+    "name": "Mint Black Tea",
+    "price": "26.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/space-private.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 50,
+    "name": "Apple Cinnamon Tea",
+    "price": "28.000",
+    "description": "Seduhan teh pilihan dengan rasa clean, floral, fruity, atau creamy.",
+    "process": "Teh diseduh dengan waktu terukur agar rasa tidak terlalu pahit.",
+    "image": "/images/hero.jpg",
+    "category": "Tea Based"
+  },
+  {
+    "id": 51,
+    "name": "Truffle Fries",
+    "price": "38.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Snack & Food",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 52,
+    "name": "Artisan Sourdough",
+    "price": "45.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 53,
+    "name": "Almond Croissant",
+    "price": "35.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Snack & Food",
+    "tag": "Favorite"
+  },
+  {
+    "id": 54,
+    "name": "Chicken Mentai Toast",
+    "price": "42.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Snack & Food",
+    "tag": "Must Try"
+  },
+  {
+    "id": 55,
+    "name": "Mushroom Cream Pasta",
+    "price": "48.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 56,
+    "name": "Spicy Tuna Rice Bowl",
+    "price": "46.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/about.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 57,
+    "name": "Chicken Karaage Bites",
+    "price": "39.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 58,
+    "name": "Matcha Tiramisu Cup",
+    "price": "36.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Snack & Food",
+    "tag": "New"
+  },
+  {
+    "id": 59,
+    "name": "Basque Cheesecake",
+    "price": "40.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/space-private.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 60,
+    "name": "Banana Butter Toast",
+    "price": "34.000",
+    "description": "Pilihan makanan ringan dan comfort food untuk menemani kopi atau matcha.",
+    "process": "Disiapkan hangat saat dipesan dengan garnish dan sauce yang sesuai.",
+    "image": "/images/hero.jpg",
+    "category": "Snack & Food"
+  },
+  {
+    "id": 61,
+    "name": "Mineral Glass",
+    "price": "10.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/gallery-1.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 62,
+    "name": "Sparkling Water",
+    "price": "18.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/gallery-2.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 63,
+    "name": "Extra Espresso Shot",
+    "price": "8.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/gallery-3.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 64,
+    "name": "Oat Milk Upgrade",
+    "price": "8.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/gallery-4.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 65,
+    "name": "Almond Milk Upgrade",
+    "price": "9.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/gallery-5.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 66,
+    "name": "Soy Milk Upgrade",
+    "price": "7.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/about.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 67,
+    "name": "Vanilla Ice Cream Scoop",
+    "price": "12.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/space-indoor.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 68,
+    "name": "Extra Matcha Shot",
+    "price": "10.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/space-outdoor.jpg",
+    "category": "Other",
+    "tag": "Favorite"
+  },
+  {
+    "id": 69,
+    "name": "Less Sugar Option",
+    "price": "0",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/space-private.jpg",
+    "category": "Other"
+  },
+  {
+    "id": 70,
+    "name": "Maicha Gift Card",
+    "price": "50.000",
+    "description": "Tambahan, upgrade, dan pilihan pendamping untuk melengkapi pesanan.",
+    "process": "Disiapkan sesuai permintaan pelanggan dan standar penyajian Maicha.",
+    "image": "/images/hero.jpg",
+    "category": "Other",
+    "tag": "Gift"
+  }
+]

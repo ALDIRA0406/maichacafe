@@ -1,0 +1,44 @@
+[
+  { 
+    "id": 1, 
+    "src": "/images/gallery-1.jpg", 
+    "alt": "The Morning Ritual",
+    "caption": "Seni di Atas Cangkir",
+    "story": "Setiap rosetta yang terbentuk adalah hasil dari ribuan jam latihan. Kami percaya bahwa kopi adalah medium seni, dan barista kami adalah senimannya. Susu yang dipanaskan tepat di suhu 65°C menciptakan tekstur mikro-foam yang lembut, memberikan pengalaman sensorik yang melampaui sekadar rasa pahit dan manis."
+  },
+  { 
+    "id": 2, 
+    "src": "/images/gallery-2.jpg", 
+    "alt": "Golden Hour Sanctuary",
+    "caption": "Sudut Cahaya Keemasan",
+    "story": "Diambil pada pukul 16:45 WIB, saat matahari Jakarta mulai melunak. Sudut jendela ini dirancang khusus untuk menangkap cahaya alami secara diagonal. Ini adalah tempat di mana waktu seolah melambat, memberikan ruang bagi para pemimpi untuk sekadar duduk, bernapas, dan menemukan inspirasi di balik bias cahaya."
+  },
+  { 
+    "id": 3, 
+    "src": "/images/gallery-3.jpg", 
+    "alt": "The Sourdough Symphony",
+    "caption": "Simfoni Tekstur",
+    "story": "Roti sourdough kami difermentasi selama 48 jam untuk menghasilkan aroma yang kompleks dan tekstur yang kenyal di dalam namun renyah di luar. Dipadukan dengan alpukat mentega premium dan telur organik, sajian ini bukan hanya tentang nutrisi, tapi tentang menghargai proses lambat di dunia yang serba instan."
+  },
+  { 
+    "id": 4, 
+    "src": "/images/gallery-4.jpg", 
+    "alt": "The Origin's Heart",
+    "caption": "Akar Kehidupan",
+    "story": "Biji kopi yang Anda nikmati berasal dari petani lokal di dataran tinggi Gayo. Kami menjaga hubungan langsung dengan mereka untuk memastikan setiap biji dipetik hanya saat merah sempurna. Foto ini menangkap tekstur kasar biji kopi yang dipanggang lambat, menyimpan rahasia tanah dan keringat para petani."
+  },
+  { 
+    "id": 5, 
+    "src": "/images/gallery-5.jpg", 
+    "alt": "Barista's Laboratory",
+    "caption": "Dapur Kreasi",
+    "story": "Di balik bar yang sibuk, terdapat presisi laboratorium. Kami menimbang setiap dosis hingga 0.1 gram akurasi. Foto ini menangkap uap air yang mengepul saat pembersihan mesin—sebuah ritual kebersihan dan dedikasi yang kami lakukan ribuan kali sehari demi satu cangkir yang sempurna untuk Anda."
+  },
+  { 
+    "id": 6, 
+    "src": "/images/space-indoor.jpg", 
+    "alt": "Architectural Solitude",
+    "caption": "Ruang Berteduh",
+    "story": "Interior Maicha didominasi oleh palet warna bumi: Sage Green dan Warm Cream. Kami menggunakan material kayu daur ulang untuk memberikan kehangatan organik. Pencahayaan diatur secara modular untuk menciptakan 'pulau-pulau' privasi, sehingga meski ruangan penuh, Anda tetap merasa berada di ruang pribadi Anda sendiri."
+  }
+]
