@@ -37,7 +37,7 @@ export default function MenuDetailModal({ item, onClose }: MenuDetailModalProps)
   if (!item) return null;
 
   const waMessage = `Halo Maicha 👋\n\nSaya tertarik untuk memesan:\n\n📌 Nama Menu: ${item.name}\n💰 Harga: ${item.price}\n\nApakah menu ini tersedia hari ini?\n\nTerima kasih.`;
-  const waUrl = `https://wa.me/6281222847595?text=${encodeURIComponent(waMessage)}`;
+  const waUrl = `https://wa.me/6282321230190?text=${encodeURIComponent(waMessage)}`;
 
   const handlePointerDown = (e: React.PointerEvent) => {
     dragControls.start(e);
