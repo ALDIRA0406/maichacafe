@@ -43,7 +43,7 @@ export default function CTA() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/6281222847595?text=Halo%20Maicha%2C%20saya%20ingin%20bertanya"
+              href="https://wa.me/6282321230190?text=Halo%20Maicha%2C%20saya%20ingin%20bertanya"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2.5 bg-matcha text-charcoal px-8 py-4 rounded-2xl font-semibold hover:bg-matcha-light transition-all duration-300 hover:scale-105 active:scale-95 shadow-lg shadow-matcha/20 min-h-[52px]"
