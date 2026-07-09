@@ -9,7 +9,7 @@ export default function FloatingWhatsApp() {
 
       {/* Button */}
       <a
-        href="https://wa.me/6281222847595?text=Halo%20Maicha%2C%20saya%20ingin%20bertanya"
+        href="https://wa.me/6282321230190?text=Halo%20Maicha%2C%20saya%20ingin%20bertanya"
         target="_blank"
         rel="noopener noreferrer"
         className="relative flex items-center justify-center w-14 h-14 sm:w-[60px] sm:h-[60px] bg-[#25D366] rounded-full shadow-lg shadow-[#25D366]/30 hover:shadow-xl hover:shadow-[#25D366]/40 transition-all duration-300 hover:scale-110 active:scale-95"
