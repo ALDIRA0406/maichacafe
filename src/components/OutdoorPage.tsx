@@ -158,7 +158,7 @@ export default function OutdoorPage({ onClose }: OutdoorPageProps) {
             Nikmati sore santai dikelilingi taman tropis asri. Kopi dingin, kudapan hangat, dan atmosfer menenangkan.
           </p>
           <a
-            href="https://wa.me/6281222847595?text=Halo%20Maicha%2C%20saya%20tertarik%20tempat%20di%20Outdoor%20Garden"
+            href="https://wa.me/6282321230190?text=Halo%20Maicha%2C%20saya%20tertarik%20tempat%20di%20Outdoor%20Garden"
             target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-matcha text-cream hover:bg-matcha-dark px-8 md:px-10 py-4 md:py-5 font-black text-[10px] md:text-[11px] uppercase tracking-[0.3em] transition-all duration-300 shadow-2xl hover:-translate-y-1 group tap-target"
           >
