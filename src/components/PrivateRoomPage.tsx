@@ -383,7 +383,7 @@ export default function PrivateRoomPage({ onClose }: PrivateRoomPageProps) {
             Per 3 Jam: 200K | Extra +1 Jam: 100K
           </p>
           <a
-            href="https://wa.me/6281222847595?text=Halo%20Maicha%2C%20saya%20tertarik%20reservasi%20Private%20Room"
+            href="https://wa.me/6282321230190?text=Halo%20Maicha%2C%20saya%20tertarik%20reservasi%20Private%20Room"
             target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-matcha text-cream hover:bg-matcha-dark border border-matcha/30 px-8 md:px-10 py-4 md:py-5 font-black text-[10px] md:text-[11px] uppercase tracking-[0.3em] transition-all duration-300 shadow-2xl hover:-translate-y-1 group tap-target"
           >
